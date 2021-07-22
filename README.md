@@ -1,61 +1,72 @@
+# **The Raydium Protocol: An AMM For The Future**
 
-
-# **Bonfida: The Bonafide Ecosystem Enabler**
-
-By Rahul Nandwani 1st Jul 2021
-
-
-
-Struggling with the user experience issues on decentralised exchanges? Craving the ease of centralised exchanges but without the centralisation? Say “Bon Voyage” to these problems and more with Bonfida! Bonfida is a non-custodial, decentralized exchange built on the Solana blockchain's Serum trading protocol, a decentralized exchange based on the Solana blockchain. Similar to their graphical user interface, Bonfida is a project that aims to constantly create products to bridge the divide between Solana, Serum and the user. With its full product suite and by bringing the CEX experience to Serum, Bonfida hopes to provide individuals with the most comprehensive experience possible. Bonfida is now the main user interface for Serum as well. They also bring to the market a sui generis data analytics program, especially for Solana. 
-
-The demand for their products are easy to ascertain, with their API being used by some of the major market makers in the industry, and queries have increased by 25% week over week. While Bonfida's graphical user interface is currently used by over 60% of Serum users. Additionally in the months leading up to its launch in December 2020, they had amassed approximately $4.5 million. CMS Holdings led the seed round, which included notable names including Genesis Block Ventures, Sino Global, Spartan Group, and Three Arrows Capital. Bonafide’s current offerings include their native token FIDA, Bonfida Serum GUI, Serum API, Serum Dashboard, Bonfida Bots and Solible. 
-
-![image-20210706060112018](README.assets/image-20210706060112018.png)
-
-Image Credit: https://bonfida.medium.com/
-
-## **Technology**
-
-### **Bonfida Serum GUI**
-
-Bonfida’s interface that combines a number of useful features, such as trading charts and TradingView data makes it the ideal trading platform for Both novice and advanced traders. These features aid users in acquiring vital analytical information on the exchange's activity, including volume, spread percentage, and total value locked for Serum DEX and Swap. Bonfida's ambition is to remain the Serum GUI's flagship, while constantly re-inventing to stay on top of developments. They constantly take into account feedback that Serum users relay and attempt to address these pain points through innovative features. This user-centric approach has led to them creating the most ideal GUI for Serum.  
-
-Currently, their goal for the GUI is to grow its user base and are attempting to do this through the following methods. Firstly, exclusive markets will be listed on Serum, with the listings managed by the community of FIDA holders. Bonfida’s positive obsession with Serum has allowed them to cultivate strategic relationships with their sister company, Alameda Research, as well. Alameda, managing over $1 billion in digital assets and trading $1-10 billion per day across thousands of products, will provide the liquidity for the exclusive listings. The second customer acquisition feature is to provide on-chain advanced order types. Currently, in the market, users can only utilise limit and market orders. On Serum, Bonfida will create profit and stop-loss orders to foster more trading autonomy to users. Additionally, they will offer both on-chain and off-chain advanced order types, with both requiring users to stake FIDA to gain access. One of Bonfida’s hallmarks is its TradingView charts made with on-chain data which was the first of its kind. While this feature is key for any exchange, they will be introducing two new features, allowing orders to be placed through charts and adding position lining on the charts.  
-
-Using Dexes is still very much a niche concept. To ease the transition for new amateur traders while also supporting more experienced individuals, Bonfida plans to introduce two trading modes for Serum; basic and advanced. The advanced mode will be identical to the existing model, but it will include additional capabilities such as Bonfida Bots and advanced order types. There will be no sophisticated order types or charts in the basic mode, which will be focused on a convert function. The final GUI feature to increase their user base is by monetizing their interface. Bonfida's business model revolves around the fees it will get from orders placed through its interface. However, all fees will be used to fund a FIDA buy and burn; however, FIDA holders will have control over how the fees are spent. 
-
-![image-20210706060210808](README.assets/image-20210706060210808.png)
-
-Image Credit: https://dex.bonfida.org/#/market/
-
-### **Serum API**
-
-Apart from their acclaimed GUI, Bonfida’s API has wide applications as well. The team has designed a backend architecture for Serum that holds all on-chain transactions. By essentially acting as a database of all Serum transactions and has regular use by Coin Market Cap and Coingecko, the API receives more than 6 million requests per day. Most significantly, this helps them to offer a superior user experience. The official Serum GUI, for example, uses the API data to load historical trades for each market. This allows every user connecting to a GUI built on open source code to actually access Bonfida data in the background. This led to the aforementioned on-chain TradingView charts, a feature that competitors are unable to replicate due to Bonfida’s unique position of market dominance through being quick to realise opportunities. 
-
-But continuous improvement is the name of the game at Bonfida. The team will continue to harvest and utilise this data for the benefit of their users, to create the optimal UI/UX. To further its mission of being the bridge between Solana and the user, Bonfida is currently working on an order placement API for serum to allow it to enhance its usability. FIDA will be required to be staked by the API, in return for order placement to work. To facilitate the breaking down of barriers of entry, the protocol plans to offer white label and consultancy services for individuals who hope to begin capitalizing on Serum’s platform but lack the technical know-how to build their own infrastructure. 
-
-![image-20210706060224263](README.assets/image-20210706060224263.png)
-
-Image Credit: https://bonfida.medium.com/ 
-
-### **Serum Dashboard, Bonfida Bots & Solible**
-
-With a myriad of different products and functions, Bonfida has engineered a Serum specific dashboard to incorporate all of the aspects of the Serum ecosystem into one domain. These include GUI, swaps, borrow/lending and staking. Currently, the Serum ecosystem has moving parts spread across several websites. This greatly affects accessibility as it is hard for users to navigate through and discover the Serum ecosystem, increasing barriers of entry. Bonfida will strive to provide a complete Serum experience from a single website, making it everyone's preferred option. This is practicable for them as they already host two major ecosystem components, a Serum GUI and a Serum wallet. 
-
-Another point of contention for new users are trading strategies, powered by unfamiliarity in a fairly volatile market like crypto. Bonfida Bots cast these aspersions aside by automating trading strategies for individuals to use with ease. These employ technical indicators to create Serum trading strategies quickly and easily. There are three ways to use the bots. The first are for individuals who want to use the strategies or rules of others, which can be bought with FIDA. While successful traders can also monetize their rules and even set the fee boundaries. The third option is tokenizing their strategies into SPL tokens. This fosters free flowing idea mobility and rewards those who are creative in coming up with effective strategies. Together with Solible, an NFT exchange built on top of Solana and Serum, these are the products that Bonfida hopes will manufacture a clear bridge between the ecosystem and the individual. 
+Rahul Nandwani May 21st 2021
 
 
 
-## **Tokenomics** 
+Amidst a largely volatile month for crypto, there seems to be a ray of hope amongst the rubble. Solana summer is impending and along with it comes Raydium. Raydium protocol is an automated market maker (AMM), built on the sturdy foundations of the Solana blockchain. An automated market maker is a form of decentralized exchange (DEX) that relies on a mathematical formula to price assets (Binance Academy, 2021). Market making in the traditional sense is normally conducted by organisations with heavy funding and intricate strategies. On an order book exchange, market makers assist customers in obtaining a fair price and a narrow bid-ask range. Conversely, automated market makers democratize the process, giving anyone access to building a market on the blockchain. 
 
-FIDA, Bonfida’s native token, will govern 95% of the net fees generated on Bonfida. These tokens can be utilized for either buying or burning as well. As a transactional tool, FIDA can grant access to the popular API mentioned earlier. They are also the method of currency for Bonfida Bots, Bonfida DEX and Solible listings with market-making services, whitelabels and consulting services. Holding FIDA has several perks as well, which include exclusive API endpoints and lower latency, both of which can be a huge advantage for advanced investors. While those seeking value through ventures can be privy to opportunities in rare Solible markets. The data-centric users can benefit as well from sui generis Solana advanced analytics. Similar to other Solana protocols, a restricted governance model based on the FIDA coin is anticipated to be included in Bonfida. Some parameters, such as product fees, may be altered by a FIDA token governance vote. These will allow for the democratization of decision-making processes. 
+The current DeFi token exchange offerings that exist on the Ethereum blockchain bring with them a host of concerns. Foremost are the long repeated concerns of high gas fees. This was most recently observed during the 19th of May’s crypto crash. Gas fees rose to almost 1500 Gwei for basic transactions and surged to almost 4500 Gwei for complex multiple contract transactions (Rustgi, 2021). For comparison, gas fees usually cost from 40 to 100 Gwei. Additionally, as users on the blockchain increase exponentially, this jams the blockchain network and slows the speed of transactions. Traditional AMMs offer a way to set the number of tokens to be traded and a slippage value (Raydium, 2021). Order and gas fees will be exhausted if the stringent requirements are not met and have led to a decrease in limit orders. The majority of AMMs have clashing offerings and traders are usually negatively affected by slippage if liquidity providers have preferences for respective AMMs. With the ease in limit orders, comes the ease in flow trading allowing savvy investors to ride the wave, by buying low and selling high like a blockchain beach. 
+
+## **Technology** 
+
+![image-20210706031020985](README.assets/image-20210706031020985.png)
+
+### Swaps
+
+Raydium strives to solve the problems AMMs currently face using several strategies. They leverage the central order book of the Serum decentralized exchange (DEX) to enable lightning-fast trades, shared liquidity and new features for earning yield (Raydium, 2021). This innovatively combines the best of AMMs such as a simple interface for liquidity providing and earning yields but using Serum and order books on Solana which is possible due to its high scalability. The underlying issue with swaps is when one attempts to quickly get in on a trade and the price moves out of the slippage. After waiting fifteen minutes, the transaction fails. In such an instance does the order book feature play an integral role as one can see exactly what orders are available and can set the price higher. This allows one to capitalise on those orders faster due to the added transparency with the added utility of Ray tokens, which will reward those who gain and hold it. 
+
+![image-20210706031040887](README.assets/image-20210706031040887.png)
+
+Image Credit: https://raydium.io/
+
+### Liquidity Pools
+
+Raydium also supports a host of several other features apart from swaps such as liquidity pools, farming, staking and the AcceleRaytor. In the case of their pools, Raydium extracts the tokens users place into liquidity pools and refocuses them onto the order books as limit orders. Generally, these limit orders work as market-making orders, similar to those that sit on the order books to allow for easily accessible liquidity for other users to benefit from. These orders are spaced out with an ample bid-ask spread. This spread is usually a better offer in comparison to Serum’s other market makers. These are calculated utilising the K= Y*X equation. Upon doing so, Raydium bestows similar liquidity to the largest market makers such as Uniswap or Sushi for the exact trading prices. This is a comprehensive solution to a tedious problem as it provides limitless liquidity for any price point. In essence, liquidity is provided for any price. On the contrary, such flexibility brings some downsides as well. Trading stablecoins such as USDC/ USDT is difficult as liquidity is not prevalent closer to the centre of the order book.
+
+### AcceleRaytor
+
+Prior to Permissionless Pools, Raydium’s AcceleRaytor was also integral in showcasing their dedication to contributing to the overall Solana blockchain. The system, which includes the Community and RAY pool process, will enable ventures to expand their scope and grow at a faster rate as it removes the closed-door veil usually existing. Community pools, although project specifications can influence participation and eligibility, are allocated for members of the ecosystem regardless of their affinity to Raydium. RAY pools, on the other hand, are aimed at individuals who actively participate in Raydium’s community. This requires users to stake an amount of RAY in the RAY.staking pool. This double-tiered approach simultaneously remunerates active Raydium community members and maintains an open contribution to the wider ecosystem. Fundamentally, it allows communities themselves to fund the growth of promising projects, while concurrently channelling liquidity. They can “AcceleRayte” the growth of promising ventures to potentially IDO quicker than usual. 
+
+### Fusion Pools & Permissionless Pools
+
+Apart from the speed and cost rhetoric usually used in explaining the benefits of farming on Solana based projects, Raydium also has huge momentum behind it to take advantage of. On April 11 just a few weeks after its launch, Raydium had hundreds of millions of liquidity locked up in its pools (McCann, 2021). One of Raydium's farming trademarks is its concept of “Fusion Pools”. Fusion pools is where one can earn a dual yield on the two different coins to be staked (McCann, 2021). Yield farmers will be able to receive double the rewards in the form of both RAY and the project token being farmed in the pool. At the time of writing, Raydium has just released its new liquidity pool feature titled “Permissionless Pools”. Permissionless liquidity pools essentially allow any project or user to create an AMM Pool that is tradeable on Raydium and also provides liquidity to the Serum order book (Raydium Twitter, 2021). This is to cater to the massive exodus of new projects springing up on the Solana blockchain. The talent incubated from the Solana Season Hackathon and the recently released CoinDCX x DevFolio’s Indian hackathon will fuel the rise in innovative projects. This will open up and allow for greater autonomy for teams to power liquidity for Raydium and Serum for a mutually beneficial process. 
+
+![image-20210706031105132](README.assets/image-20210706031105132.png)
+
+Image Credit: https://raydium.io/
+
+## Tokenomics
+
+RAY is the native utility token used for:
+
+* Staking to earn protocol fees
+* Staking to receive IDO allocations
+* Governance votes on protocol decisions
+
+![image-20210706031158008](README.assets/image-20210706031158008.png)
+
+Raydium launched its main net on February 21st, 2021 with 555,000,000 tokens created at genesis. 34% of all tokens will be released as liquidity mining incentives over a 3-year period. 30% of tokens are earmarked for partnerships and the expansion of the Raydium ecosystem. This includes giving grants to projects building projects around Raydium or helping our communities in general. These tokens are generally locked for 1 year and unlock linearly for the next 2 years. 
+
+![image-20210706031203793](README.assets/image-20210706031203793.png)
+
+Image Credit: https://coinmarketcap.com/
+
+## **Team**
+
+In the crypto world where founders like Vitalik Buterin are lauded with a mass following, the team behind Raydium is an ostentatious one. With their Ray-Esque name format, it is clear the team consisting of XRay, StingRay, GammaRay and RayZor led by the inconspicuous AlphaRay aim to determine their value through the quality of their platform. AlphaRay, who leads overall strategy, operations, product direction and business development for Raydium, began investing in crypto in December 2017 upon learning from a friend of its sheer potential. AlphaRay swiftly caught wind of the famous “Kimchi Arbitrage” and thereafter spent countless trips to and from Korea, profiting from the move. He then went on to conduct yield farming on AMMs such as Sushi and profited again from the arbitrage off these platforms. 
 
 
+ Fast forward to September 2021, gas prices started increasing incrementally and costed almost $100 to conduct even the most basic transactions such as swapping tokens etc. AlphaRay’s inspired belief was that crypto’s low barrier was meant to bring higher accessibility and was frustrated that individuals were getting priced out due to huge gas fees. He set out to change the status quo and gave a call to the team at FTX, as one does. Upon being told of “Serum”, their new project at the embryonic stage, he had a lightbulb moment. Inspired by Serum’s order book, it rapidly dawned on AlphaRay how ideal it was for AMMs and the trading interface for users that gave them more control than just conducting swaps. During the DeFi summer of 2020, he set out to assemble a crack team of developers to tackle the problem and avenge (pardon the reference) the ecosystem head-on. Much like a Marvel movie, he consolidated an all-star team with experience ranging from trading and low latency systems architects to leading data analytics and market research firms. And thus, Raydium was born.
 
-## **Team** 
+![image-20210706031221992](README.assets/image-20210706031221992.png)
 
-Bonfida was founded by David Ratiney, a French student studying at the University of Cambridge at the time. Ratiney started Bonfida as a part-time project, with a central goal of monetising latency. As time went on, the project’s ambitions evolved to offer anything Serum lacked and hoped to fill those gaps with solutions through features. The sheer potential of Solana and Serum, coupled with the early stage timing of the ecosystem with so much left to be built conveyed to Ratiney the opportunity his protocol presented through its value propositions. Requiring raw data led Ratiney to design his own database to capture the information, which ended up fueling his other features as well. This led to the creation and eventual success of the API, which initiated the chain of events that solidified the Bonfida Foundation as a major force in the Solana ecosystem. 
+## **Roadmap**
 
-![image-20210706060237538](README.assets/image-20210706060237538.png)
+In an exclusive conversation with Solasystem, Raydium has highlighted several items to be released in the next few quarters. The team aims to release stable swaps and governance in Q3, however has duly noted if things were to go smoothly, they could release them as early as Q2.
 
-Image Credit: https://solana.com/defi
+![image-20210706031231794](README.assets/image-20210706031231794.png)
+
+With exciting new concepts such as Project Raydiate and the Bonsai Sushiswap Integration, Raydium is showing no signs of slowing down. It is safe to say the path is set for Raydium to establish itself as one of the core protocols in the Solana ecosystem. 
+
+
